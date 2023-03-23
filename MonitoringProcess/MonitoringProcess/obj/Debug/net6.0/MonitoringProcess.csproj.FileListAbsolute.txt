@@ -1,0 +1,15 @@
+C:\Users\GoncaloPereira\Documents\GitHub\PublicDev\MonitoringProcess\MonitoringProcess\bin\Debug\net6.0\MonitoringProcess.exe
+C:\Users\GoncaloPereira\Documents\GitHub\PublicDev\MonitoringProcess\MonitoringProcess\bin\Debug\net6.0\MonitoringProcess.deps.json
+C:\Users\GoncaloPereira\Documents\GitHub\PublicDev\MonitoringProcess\MonitoringProcess\bin\Debug\net6.0\MonitoringProcess.runtimeconfig.json
+C:\Users\GoncaloPereira\Documents\GitHub\PublicDev\MonitoringProcess\MonitoringProcess\bin\Debug\net6.0\MonitoringProcess.dll
+C:\Users\GoncaloPereira\Documents\GitHub\PublicDev\MonitoringProcess\MonitoringProcess\bin\Debug\net6.0\MonitoringProcess.pdb
+C:\Users\GoncaloPereira\Documents\GitHub\PublicDev\MonitoringProcess\MonitoringProcess\obj\Debug\net6.0\MonitoringProcess.csproj.AssemblyReference.cache
+C:\Users\GoncaloPereira\Documents\GitHub\PublicDev\MonitoringProcess\MonitoringProcess\obj\Debug\net6.0\MonitoringProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GoncaloPereira\Documents\GitHub\PublicDev\MonitoringProcess\MonitoringProcess\obj\Debug\net6.0\MonitoringProcess.AssemblyInfoInputs.cache
+C:\Users\GoncaloPereira\Documents\GitHub\PublicDev\MonitoringProcess\MonitoringProcess\obj\Debug\net6.0\MonitoringProcess.AssemblyInfo.cs
+C:\Users\GoncaloPereira\Documents\GitHub\PublicDev\MonitoringProcess\MonitoringProcess\obj\Debug\net6.0\MonitoringProcess.csproj.CoreCompileInputs.cache
+C:\Users\GoncaloPereira\Documents\GitHub\PublicDev\MonitoringProcess\MonitoringProcess\obj\Debug\net6.0\MonitoringProcess.dll
+C:\Users\GoncaloPereira\Documents\GitHub\PublicDev\MonitoringProcess\MonitoringProcess\obj\Debug\net6.0\refint\MonitoringProcess.dll
+C:\Users\GoncaloPereira\Documents\GitHub\PublicDev\MonitoringProcess\MonitoringProcess\obj\Debug\net6.0\MonitoringProcess.pdb
+C:\Users\GoncaloPereira\Documents\GitHub\PublicDev\MonitoringProcess\MonitoringProcess\obj\Debug\net6.0\MonitoringProcess.genruntimeconfig.cache
+C:\Users\GoncaloPereira\Documents\GitHub\PublicDev\MonitoringProcess\MonitoringProcess\obj\Debug\net6.0\ref\MonitoringProcess.dll
