@@ -53,7 +53,7 @@ public class Program
 
             }
 
-            Console.WriteLine("Press Q to leave or any other key to continue monitoring.");
+            Console.WriteLine("Press 'q' to leave or any other key to continue monitoring.");
             if (Console.ReadKey(true).KeyChar == 'q')
             {
                 Console.WriteLine("Exiting program.");
